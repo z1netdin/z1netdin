@@ -23,7 +23,7 @@ I’m a builder, thinker, and explorer — at the intersection of technology, ph
 I don’t build things just for fun, for money, or to waste time.
 I build because some problems truly matter — and people genuinely need solutions.
 I truly believe in changing the world for the better.
-Do it. Build it. Change what needs changing.
+Do it. Build it. Change what needs changing — not just me, not just you, but us. Together.
 
 ### 📚 Current Learning Goals
 - Proof writing and mathematical reasoning  
