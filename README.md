@@ -20,6 +20,11 @@ I’m a builder, thinker, and explorer — at the intersection of technology, ph
 - Cyber-defense and ethical hacking challenges  
 - Projects that ask: "Is this worth building?"
 
+I don’t build things just for fun, for money, or to waste time.
+I build because some problems truly matter — and people genuinely need solutions.
+I truly believe in changing the world for the better.
+Do it. Build it. Change what needs changing.
+
 ### 📚 Current Learning Goals
 - Proof writing and mathematical reasoning  
 - Ethical frameworks for AI  
