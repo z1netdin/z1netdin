@@ -1,1 +1,1 @@
-I study, build real projects, and rethink the hardest problems to explore software like a frontier.
+I study, build, and rethink software like it’s a mission to redefine what’s possible.
